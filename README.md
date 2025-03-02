@@ -1,4 +1,4 @@
-# Little Lemon App
+# Little Lemon Food App
 
 This repository contains the final project for the "Create the User Interface with SwiftUI" course, which is part of the Meta iOS Developer Professional Certificate program. The project is called "Little Lemon App."
 
