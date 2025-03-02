@@ -6,7 +6,7 @@
 	objectVersion = 56;
 	objects = {
 
-/* Begin PBXBuildFile section */
+/* Begin PBXBuildFile section   */
 		8E09F0982A93CDEC00FABA57 /* MarkaziText-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E09F0972A93CDEC00FABA57 /* MarkaziText-VariableFont_wght.ttf */; };
 		8E2908DD2A9A00DF00F288B2 /* ExampleDatabase.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8E2908DB2A9A00DF00F288B2 /* ExampleDatabase.xcdatamodeld */; };
 		8E4A96C22A887D710005F944 /* OnboardingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4A96C12A887D710005F944 /* OnboardingApp.swift */; };
